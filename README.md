@@ -24,3 +24,8 @@ Digite o número de moedas de 50 centavos:
 2
 Digite o número de moedas de 1 real:
 4
+
+
+
+https://github.com/user-attachments/assets/cd3647a8-96d8-44e0-b8e7-2350acc95ebe
+
